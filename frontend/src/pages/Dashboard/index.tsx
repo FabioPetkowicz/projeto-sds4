@@ -19,7 +19,7 @@ function Dashboard() {
 
                     <div className="col-sm-6">
                         <h5 className="text-center text-secondary">Todas Vendas</h5>
-                        <DonutChart />
+                        <DonutChart/>
                     </div>
                 </div>
 
@@ -27,7 +27,7 @@ function Dashboard() {
                     <h2 className="text-primary">Todas Vendas</h2>
                 </div>
 
-                <DataTable />
+                <DataTable/>
             </div>
             <Footer/>
         </>
